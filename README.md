@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Web capture_20-12-2023_15167_localhost](https://github.com/sheth2001/expense_manager/assets/142232429/aef48c97-b40d-46bb-8a3b-24382c468f82)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
